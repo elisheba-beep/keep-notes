@@ -3,7 +3,8 @@
 A note-taking application which allows you to store notes and information digitally and also set reminders.
 
 ## Demo
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0dDB3OGthcWI0bGo0dTE4dnltZ3J1cmRucW92cXNpNnJnYjBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyWRKE5qyig2xDswU4/giphy.gif
+![keep-notes gif](https://github.com/elisheba-beep/keep-notes/assets/62700477/f7bb4df2-e336-40b4-879f-6f8ed3ff552d)
+
 
 ## Run Locally
 
